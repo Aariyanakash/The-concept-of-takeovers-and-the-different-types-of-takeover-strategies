@@ -1,66 +1,6 @@
 **A critical analysis of the concept of takeovers along with the
 explanation of the different types of takeover strategies**
 
-**Name: Arun Akash Jawahar**
-
-**Student Id: Q1036635**
-
-**October Intake, Group 1**
-
-**Date: 10/10/2023**
-
-Statement of compliance with academic ethics and the avoidance of
-plagiarism
-
-I honestly declare that this assignment is entirely my own work and none
-of its part has been copied from printed or electronic sources,
-translated from foreign sources and reproduced from essays of other
-resources or students. Wherever I have been based on ideas or other
-people texts I clearly declare it through the good use of references
-following academic ethics.
-
-**ARUN AKASH JAWAHAR**
-
-**10/10/2023**
-
-**TABLE OF CONTENT:**
-
-  -----------------------------------------------------------------------
-  **S.no**   **Particulars**
-  ---------- ------------------------------------------------------------
-  1          Mergers and Acquisitions
-
-  2          Introduction
-
-  2.1        Broadcom
-
-  2.2        VMware
-
-  2.3        Drivers of Mergers and Acquisitions
-
-  3          Due Diligence
-
-  3.1        Nature of Acquisition
-
-  3.2        Investment strategy taken by Broadcom
-
-  3.3        Operational strategy of Broadcom
-
-  3.4        Altman Score
-
-  3.4.1      Altman score of Broadcom
-
-  3.4.2      Altman score of VMware
-
-  4          Takeovers
-
-  4.1        Takeover Strategy
-
-  5          Conclusion
-
-  6          Reference
-  -----------------------------------------------------------------------
-
 **1 Mergers and Acquisitions:**
 
 Corporate strategies known as mergers and acquisitions (M&A) involve
